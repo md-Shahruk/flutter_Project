@@ -14,7 +14,7 @@
 
 ## Features:
 - GetX state management
-[Learn many design technique from this repo.](https://github.com/justkawal)
+## [Learn many design technique from this repo.](https://github.com/justkawal)
 ## Screenshots:
 ![App Screenshot 1](https://github.com/md-Shahruk/flutter_Project/blob/main/plant_purchase/assets/app_picture/organic_1.png)
 ![App Screenshot 2](https://github.com/md-Shahruk/flutter_Project/blob/main/plant_purchase/assets/app_picture/oranic_2.png)
