@@ -34,3 +34,20 @@
 ![App Screenshot 2](https://github.com/md-Shahruk/flutter_Project/blob/main/habit_tracker/assets/habit_tracker/habit2.png)
 ![App Screenshot 3](https://github.com/md-Shahruk/flutter_Project/blob/main/habit_tracker/assets/habit_tracker/habit3.png)
 
+
+
+# [3. KFC Food APP](kfc_app)
+
+## Features:
+- Overly animations, custom animations
+- App and Cart Functionality  
+- Beutiful UI 
+
+# [Design Credits](https://dribbble.com/shots/15093314-Restaurant-App-Design)
+
+## Screenshot: 
+![App Screenshot 1](https://github.com/md-Shahruk/flutter_Project/blob/main/kfc_app/assets/app_pic/kfc01.png)
+![App Screenshot 2](https://github.com/md-Shahruk/flutter_Project/blob/main/kfc_app/assets/app_pic/kfc02.png)
+
+
+
